@@ -53,4 +53,4 @@ Model Fitness aportó archivos CSV que contienen los datos sobre la cancelación
   - `Group_visits` — si el/la usuario/a participa en sesiones grupales.
   - `Avg_class_frequency_total` — frecuencia media de visitas por semana a lo largo de la vida del cliente.
   - `Avg_class_frequency_current_month` — frecuencia media de visitas por semana durante el mes en curso.
-    - `Avg_additional_charges_total` — cantidad total de dinero gastado en otros servicios del gimnasio: cafetería, productos deportivos, cosméticos, masajes, etc.
+  - `Avg_additional_charges_total` — cantidad total de dinero gastado en otros servicios del gimnasio: cafetería, productos deportivos, cosméticos, masajes, etc.
